@@ -1,0 +1,3 @@
+ - In this project we were supposed to write 7 sorting algorythms in a separate .cpp file
+ - the in the main file the program creates a large table and sorts it using all the ways we coded
+ - Then it shows the time needed for all the algorythms
